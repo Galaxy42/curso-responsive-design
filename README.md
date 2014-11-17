@@ -1,4 +1,4 @@
 curso-responsive-design
 =======================
 
-este es el repositorio oficial para el curso de responsive design, en el cual puedes mandar todos tus aportes al codigo o simplemente tenerlo de referencia para tu aprendizaje descargándolo o clonandolo en tu computadora
+Este branch contiene una versión del patron off-canvas para abajo, como se representa en muchos sitios, el cual también Leonidas explicó en una pregunta, la cual yo mismo pregunté :)
